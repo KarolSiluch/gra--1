@@ -22,4 +22,4 @@ Sterowanie:
 - atak: lewy przycisk myszy
 - dodatkowa umiejętność: prawy przycisk myszy
 
-Życzę miłej zabawy.
+W zakładce releases znajduje się plik exe z grą. Życzę miłej zabawy.
