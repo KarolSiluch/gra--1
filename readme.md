@@ -1,4 +1,6 @@
-Jest to gra stworzona tak naprawdę z nudów. Pracowałem nad nią w wakacje przed pójściem na studia, więc mój sposób pisania kodu trochę się zmienił od tego czasu. Nie wiedziałem jeszcze co to jest git albo pytest.
+Jest to gra stworzona tak naprawdę z nudów. Pracowałem nad nią w wakacje przed pójściem na studia, więc mój sposób pisania kodu trochę się zmienił od tego czasu.
+
+Projekt została stworzona w pythonie, co nie jest raczej częstym wyborem przy tworzeniu gier. Ze wzgędu na niekorzystanie z silnika, każdą najmniejszą funkcjonalność musiałem napisać sam. Zdecydowałem się na takie rozwiązanie, ponieważ znajomość pythona wydaje się użyteczna nie tylko przy gamedevie.
 
 Gra polega na pokonywaniu fal robocików i ostatniego bossa. Po drodze można zdobywać ulepszenia, które w różny sposób zmieniają zachowanie broni.
 Nie ma tu samouczka, więc postaram się szybko wytłumaczyć zasady i sterowanie.
