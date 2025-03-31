@@ -24,5 +24,8 @@ Sterowanie:
 - atak: lewy przycisk myszy
 - dodatkowa umiejętność: prawy przycisk myszy
 
+Przykładowy gameplay:
+https://www.youtube.com/watch?v=LjaWqMJYKeA
+
 Ten projekt był fundamentem dla mojego frameworka, dzięki któremu pisanie przyszłych projektów będzie dużo łatwiejsze.
 W zakładce releases znajduje się plik exe z grą. Życzę miłej zabawy.
